@@ -18,8 +18,8 @@ Jmeter
 Postman
 Adobe XD  
 # Target Devices:
-Website
-Tablet
-Mobile
-Laptop
-Desktop
+- Website
+- Tablet
+- Mobile
+- Laptop
+- Desktop
