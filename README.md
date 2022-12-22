@@ -20,11 +20,9 @@ Food and Restaurants
 # Target Devices:
 - Tablet
 - Mobile
-# Process:
-So our team started to work on it from scratch as we followed all the standards related to Software Development. We have dedicated teams that will ensure that all the phases of the Software Development Life Cycle will follow up to mark and in a standardized way.
-We have dedicated teams for each separate phase which include Requirement Engineers, Software Designers, Developers, and Quality Assurance Engineers who will make sure that each phase of Software and each requirement of Stakeholder will be validated and provide a quality product through our multi-layer Quality Assurance process.
-This ensures on-time and quality deliverables to our clients by meeting and implementing their every business requirement.
+
 # Modules:
+
 ## Cashier Android Application:
 This android application is the user side on which the cashier performs eCommerce-related operations. It contains all the features with an excellent design feature along with consideration of user experience and optimization. Following features a user can perform using this application
 - View Products
